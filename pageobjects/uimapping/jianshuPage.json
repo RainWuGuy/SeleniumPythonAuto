@@ -1,0 +1,15 @@
+# we only use xpath to find elements  
+{
+"Jianshu_LoginPage":"//div/a[text()='登录']",
+"Jianshu_UserName":"//input[@id='session_email_or_mobile_number']",
+"Jianshu_PassWord":"//input[@id='session_password']",
+"Jianshu_Remember":"//input[@id='session_remember_me']",
+"Jianshu_EnterBtn":"//button[@id='sign-in-form-submit-btn']",
+"Jianshu_CloseVerify":"//div[@class='geetest_widget']//a[@class='geetest_close']",	
+"Jianshu_Input":{
+                 "Jianshu_Input1":"1",
+                 "Jianshu_Input2":"2"
+				 }
+}
+
+
